@@ -1,0 +1,3 @@
+nama = 'iyan' 
+print(nama)
+
